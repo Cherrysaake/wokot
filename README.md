@@ -1,4 +1,4 @@
-# Godot Engine
+# Wokot Engine
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -22,11 +22,11 @@ Wokot is completely free and open source under the very permissive [MIT license]
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Wokot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
+expectations. It is supported by the [Wokot Foundation](https://godot.foundation/)
 not-for-profit.
 
 Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
-Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
+Wokot had been developed by [Juan Linietsky](https://github.com/reduz) and
 [Ariel Manzur](https://github.com/punto-) (both still maintaining the project)
 for several years as an in-house engine, used to publish several work-for-hire
 titles.
@@ -37,7 +37,7 @@ titles.
 
 ### Binary downloads
 
-Official binaries for the Godot editor and the export templates can be found
+Official binaries for the Wokot editor and the export templates can be found
 [on the Wokot website](https://godotengine.org/download).
 
 ### Compiling from source
@@ -51,7 +51,7 @@ Wokot is not only an engine but an ever-growing community of users and engine
 developers. The main community channels are listed [on the homepage](https://godotengine.org/community).
 
 The best way to get in touch with the core engine developers is to join the
-[Godot Contributors Chat](https://chat.godotengine.org).
+[Wokot Contributors Chat](https://chat.godotengine.org).
 
 To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
 This document also includes guidelines for reporting bugs.
